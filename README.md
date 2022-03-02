@@ -1,1 +1,3 @@
 # conflict-resolution
+
+modify README
